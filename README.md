@@ -7,4 +7,4 @@
 use it as
 
 `import {red} from './Colors'`=>
-and then red[50]
+and then `red[50]`
